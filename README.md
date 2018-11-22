@@ -1,7 +1,7 @@
 # My-Android-APKs
 This is a list of my android apps that i have created. You can click the link and download the APKs
 
-   - [Score Tracker](https://github.com/infiniteoverflow/Score-Tracker/blob/master/app/app-debug.apk?raw=true)
+   - [Score Tracker](https://github.com/infiniteoverflow/Score-Tracker/blob/master/app/app-debug.apk?raw=true) - It is an android app which can be used to track the score of a basketball game.
 
    - [Kannada Kali](https://github.com/infiniteoverflow/Kannada-Kali/blob/master/Kannada%20%E0%B2%95%E0%B2%B2%E0%B2%BF.apk?raw=true) (Not available - UNDER CONSTRUTION)
    
