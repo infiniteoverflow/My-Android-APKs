@@ -1,5 +1,5 @@
 # M Y - A N D R O I D - A P K s
-### This is a list of my android apps that i have created. You can click the link and download the APKs
+### This is a list of the android apps that i have created. You can click the link and download the APKs
 
    - ## [Score Tracker](https://github.com/infiniteoverflow/Score-Tracker/blob/master/app/app-debug.apk?raw=true) - It is an android app which can be used to track the score of a basketball game.
 
