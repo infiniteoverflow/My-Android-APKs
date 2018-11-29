@@ -3,7 +3,7 @@
 
    - ## [Score Tracker](https://github.com/infiniteoverflow/Score-Tracker/blob/master/app/app-debug.apk?raw=true) - It is an android app which can be used to track the score of a basketball game.
 
-   - ## [Kannada Kali](https://github.com/infiniteoverflow/Kannada-Kali/blob/master/Kannada%20Kali.apk?raw=true) (Not available - UNDER CONSTRUTION) - It is an android app which can be used to learn the Indian language Kannada.
+   - ## [Kannada Kali](https://github.com/infiniteoverflow/Kannada-Kali/blob/master/Kannada%20Kali.apk?raw=true) - It is an android app which can be used to learn the Indian language Kannada.
    
    - ## [Brain trainer](https://github.com/infiniteoverflow/Brain-Trainer-App/blob/master/Brain%20Trainer.apk?raw=true) - Use this app to test how fast your brain works while doing mathematical calculations. Solve as many questions in 30s and see your score.
    
