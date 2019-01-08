@@ -5,6 +5,8 @@
 
    - ## [Kannada Kali](https://github.com/infiniteoverflow/Kannada-Kali/blob/master/Kannada%20Kali.apk?raw=true) - It is an android app which can be used to learn the Indian language Kannada.
    
+   - ## [Hikers Watch](https://github.com/infiniteoverflow/Hikers-Watch/blob/master/Hikers%20Watch.apk?raw=true) - It is an android app which gives you details about your current location like Latitude,Longitude,Altitude,Address and Accuracy.
+   
    - ## [Brain trainer](https://github.com/infiniteoverflow/Brain-Trainer-App/blob/master/Brain%20Trainer.apk?raw=true) - Use this app to test how fast your brain works while doing mathematical calculations. Solve as many questions in 30s and see your score.
    
    - ## [Weather Now !!](https://github.com/infiniteoverflow/My-Android-APKs/blob/master/APKs/Weather%20Now%20!!.apk?raw=true) - An app that reads the JSON data from openweathermap.org and displays the weather of different cities.
