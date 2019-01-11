@@ -13,6 +13,8 @@
    
    - ## [Weather Now !!](https://github.com/infiniteoverflow/My-Android-APKs/blob/master/APKs/Weather%20Now%20!!.apk?raw=true) - An app that reads the JSON data from openweathermap.org and displays the weather of different cities.
    
+   - ## [Bluetooth App](https://github.com/infiniteoverflow/Bluetooth-App/blob/master/Bluetooth%20App.apk?raw=true) - Lists the available bluetooth devices.
+   
    - ## [Currency Converter](https://github.com/infiniteoverflow/Currency-Converter/blob/master/Currency%20Converter.apk?raw=true) - A basic converter app to convert dollars to rupees and vice versa.
    
    - ## [High or Low game](https://github.com/infiniteoverflow/High-or-Low-game/blob/master/High%20or%20low%20game.apk?raw=true) - The computer guesses a number and the user has to check it.
