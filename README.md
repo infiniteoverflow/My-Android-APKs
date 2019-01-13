@@ -4,6 +4,8 @@
    - ## [Score Tracker](https://github.com/infiniteoverflow/Score-Tracker/blob/master/app/app-debug.apk?raw=true) - It is an android app which can be used to track the score of a basketball game.
 
    - ## [Kannada Kali](https://github.com/infiniteoverflow/Kannada-Kali/blob/master/Kannada%20Kali.apk?raw=true) - It is an android app which can be used to learn the Indian language Kannada.
+
+   - ## [Coin-Man Game](https://github.com/infiniteoverflow/My-Android-APKs/blob/master/APKs/Coin-Man.apk?raw=true) - A game similar to the Mario Rush; Created using LibGDX framework of Java.
    
    - ## [Hikers Watch](https://github.com/infiniteoverflow/Hikers-Watch/blob/master/Hikers%20Watch.apk?raw=true) - It is an android app which gives you details about your current location like Latitude,Longitude,Altitude,Address and Accuracy.
    
